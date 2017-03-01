@@ -1,0 +1,6 @@
+# Academic Issuetracking-system
+
+It is an academic project for tracking academical issues and resolve it.
+Follow the wiki part of this project for full documentation .
+Follow the uploaded software requirement specification (SRS) sheet , the codes for webpage and the sql queries for the database (users.sql).
+Put the above uploaded file along with the code in side the a folder called "login" (omit the ") inside the "www" folder of your wampserver .
